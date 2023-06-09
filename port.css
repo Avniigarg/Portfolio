@@ -4,7 +4,7 @@
     scroll-behavior: smooth;
 }
 
-/* section1 */
+/* header */
 a:link {
     color: black;
     background-color: transparent;
@@ -13,16 +13,16 @@ a:link {
 
 .p1-header {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     color: black;
-    padding: 10px 0px;
     font-size: 19px;
+    flex-direction: row;
 }
 
 .header {
-    color: black;
-    font-weight: 700;
-    padding-right: 80px;
+    color: black; 
+    font-weight: 600;
+    padding-right: 20px;
     position: sticky;
     top: 0;
     background-color: white;
@@ -52,15 +52,29 @@ a:active {
 
 .head-border {
     background-color: white;
-    background-image: url("C:\Users\avnig\OneDrive\Desktop\OIBSIP\TASK2\assets\head.png");
-    padding: 15px 0px;
+    padding: 20px 0px;
     position: fixed;
     top: 0;
     width: 100%;
-    box-shadow: 0 0 5px 5px rgb(224, 216, 216);
+    box-shadow: 0 0 3px 0.1px rgb(224, 216, 216);
     z-index: 10;
+    display: flex;
+    flex-direction: inherit;
+    justify-content: space-between;
+}
+
+.header-logo {
+    display: flex;
+    flex-direction: row;
+    font-size:23px;
+    font-weight: 800;
+    padding-left: 20px;
 
 }
+
+/* end */
+
+/* section 1 */
 
 #introduction {
     display: flex;
