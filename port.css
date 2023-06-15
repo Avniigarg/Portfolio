@@ -62,7 +62,6 @@ a:active {
     display: flex;
     flex-direction: inherit;
     justify-content: space-between;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .header-logo {
@@ -92,7 +91,6 @@ a:active {
     flex-direction: column;
     padding-right: 400px;
     text-align: start;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
@@ -199,7 +197,6 @@ skills {
 .section-title {
     font-size: 25px;
     font-weight: 600;
-    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     margin-top: 25px;
     padding-top: 10px;
