@@ -252,34 +252,5 @@ skills {
 /* end */
 
 /* section 4 */
-.Footer-contact {
-    font-size: 17px;
-    background-color: whitesmoke;
-    padding-top: 50px;
-    font-weight: 100;
-}
-
-.footer-img {
-    width: 9%;
-    align-items: center;
-    padding: 25px 0px;
-}
-
-.inner-contact {
-    /* padding-left: 15px; */
-    text-align: initial;
-    padding: 60px 0px;
-}
-
-.contact-p {
-    font-size: 24px;
-}
 
 /* end */
-
-/* bounce */
-@keyframes bounce {
-    to {
-        transform: scale(1.2);
-    }
-}
