@@ -90,6 +90,7 @@ a:active {
     flex-direction: column;
     padding-right: 400px;
     text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
