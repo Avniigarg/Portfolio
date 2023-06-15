@@ -211,7 +211,7 @@ skills {
     margin-top: 50px;
     background-color: whitesmoke;
     text-align: center;
-    height: 300px;
+    height: 250px;
     display: flex;
     flex-direction: column;
 }
@@ -225,7 +225,6 @@ skills {
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
-
 }
 
 .icon-color {
@@ -240,7 +239,7 @@ skills {
     color: whitesmoke;
     justify-content: space-around;
     font-size: 15px;
-    margin-top: 152px;
+    margin-top: 102px;
 
 }
 
