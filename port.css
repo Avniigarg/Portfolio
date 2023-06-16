@@ -208,10 +208,11 @@ skills {
 
 /* section4 */
 .footer {
+    padding-top: 30px;
     margin-top: 50px;
     background-color: whitesmoke;
     text-align: center;
-    height: 250px;
+    height: 125px;
     display: flex;
     flex-direction: column;
 }
@@ -239,7 +240,7 @@ skills {
     color: whitesmoke;
     justify-content: space-around;
     font-size: 15px;
-    margin-top: 102px;
+    margin-top: 50px;
 
 }
 
