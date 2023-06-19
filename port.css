@@ -208,6 +208,11 @@ img {
     width: 70%;
 }
 
+#work-line {
+    border-top: 3px solid whitesmoke;
+    width: 70%;
+}
+
 
 /* end */
 
