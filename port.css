@@ -183,12 +183,12 @@ img {
 }
 
 .work1 {
-    padding-top: 50px;
+    padding-top: 20px;
     display: flex;
     flex-direction: column;
     font-size: medium;
     color: black;
-    margin-top: 40px;
+    margin-top: 30px;
     font-size: 20px;
     font-weight: 700;
 }
