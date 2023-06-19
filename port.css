@@ -178,7 +178,7 @@ img {
 {
     display: flex;
     padding: 20px 30px;
-    flex-direction: row;
+    flex-direction: column;
     justify-self: auto;
 }
 
@@ -203,7 +203,14 @@ img {
     font-size: 14px;
     color: black;
     font-weight: 500;
-    padding-top: 5px;
+    padding: 7px 10px;
+    text-align: left;
+    width: 70%;
+}
+
+.work-link {
+    color: black;
+    font-size: 10px;
 }
 
 /* end */
