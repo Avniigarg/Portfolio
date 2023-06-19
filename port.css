@@ -177,27 +177,33 @@ img {
 .work-box
 {
     display: flex;
-    padding-top: 20px;
-    flex-direction: column;
+    padding: 20px 30px;
+    flex-direction: row;
     justify-self: auto;
-
 }
 
 .work1 {
-    padding-top: 20px;
+    padding-top: 50px;
     display: flex;
+    flex-direction: column;
     font-size: medium;
-    color: rgb(60, 58, 58);
+    color: black;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 .work-h5 {
     color: black;
-    font-size: 25px;
+    font-size: 15px;
+    padding-top: 2px;
 }
 
 .work-para {
-    font-size: 20px;
+    font-size: 14px;
     color: black;
+    font-weight: 500;
+    padding-top: 5px;
 }
 
 /* end */
