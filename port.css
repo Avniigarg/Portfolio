@@ -180,6 +180,7 @@ img {
     padding: 0px 30px;
     flex-direction: column;
     justify-self: auto;
+    margin-bottom: 40px;
 }
 
 .work1 {
@@ -223,6 +224,7 @@ img {
     flex-direction: row;
     border-top: 3px solid whitesmoke;
     justify-content: space-between;
+    margin-top: 50px;
 }
 
 .icon-color {
